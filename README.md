@@ -19,6 +19,10 @@
 </p>
 
 
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=itsmebasil0&repo=machine-learning-model&theme=dark)](https://github.com/Itsmebasil0/machine-learning-model)
+
+
+
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=itsmebasil0&repo=catbots&theme=dark)](https://github.com/Itsmebasil0/catbots)
 
